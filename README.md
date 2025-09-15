@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Tiago Mendoza
+#  Tiago Mendoza
 
 **`Desenvolvedor Back-end`**
 
